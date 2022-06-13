@@ -1,4 +1,4 @@
-package poc.rc.rp;
+package poc.rc.rp.mono;
 
 import java.util.stream.Stream;
 

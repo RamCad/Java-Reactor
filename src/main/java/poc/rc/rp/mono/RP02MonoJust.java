@@ -1,4 +1,4 @@
-package poc.rc.rp;
+package poc.rc.rp.mono;
 
 import reactor.core.publisher.Mono;
 
