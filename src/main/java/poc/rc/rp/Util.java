@@ -2,6 +2,7 @@ package poc.rc.rp;
 
 import com.github.javafaker.Faker;
 import java.util.function.Consumer;
+import org.reactivestreams.Subscriber;
 
 public class Util {
 
@@ -25,5 +26,13 @@ public class Util {
     } catch (InterruptedException e) {
       e.printStackTrace();
     }
+  }
+
+  public static Subscriber<Object> getSubscriber() {
+    return new DefaultSubscriber();
+  }
+
+  public static Subscriber<Object> getSubscriber(String name) {
+    return new DefaultSubscriber(name);
   }
 }
