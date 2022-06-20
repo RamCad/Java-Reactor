@@ -3,7 +3,7 @@ package poc.rc.rp.flux;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.Util;
 import reactor.core.publisher.Flux;
 
 public class RP03FluxFromArrayOrListOrStream {

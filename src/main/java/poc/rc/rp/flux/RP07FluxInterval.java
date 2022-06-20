@@ -1,7 +1,7 @@
 package poc.rc.rp.flux;
 
 import java.time.Duration;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.Util;
 import reactor.core.publisher.Flux;
 
 public class RP07FluxInterval {

@@ -2,7 +2,7 @@ package poc.rc.rp.flux;
 
 import java.time.LocalTime;
 import java.util.List;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.Util;
 
 public class RP06FluxVsList {
 

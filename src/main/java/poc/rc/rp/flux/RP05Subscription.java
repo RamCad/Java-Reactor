@@ -3,7 +3,7 @@ package poc.rc.rp.flux;
 import java.util.concurrent.atomic.AtomicReference;
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.Util;
 import reactor.core.publisher.Flux;
 
 public class RP05Subscription {

@@ -1,4 +1,4 @@
-package poc.rc.rp;
+package poc.rc.rp.commonutils;
 
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;

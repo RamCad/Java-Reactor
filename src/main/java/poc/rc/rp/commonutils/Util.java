@@ -1,4 +1,4 @@
-package poc.rc.rp;
+package poc.rc.rp.commonutils;
 
 import com.github.javafaker.Faker;
 import java.util.function.Consumer;

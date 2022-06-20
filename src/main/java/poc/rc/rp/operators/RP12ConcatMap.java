@@ -1,8 +1,8 @@
 package poc.rc.rp.operators;
 
-import poc.rc.rp.OrderService;
-import poc.rc.rp.UserService;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.OrderService;
+import poc.rc.rp.commonutils.UserService;
+import poc.rc.rp.commonutils.Util;
 
 public class RP12ConcatMap {
 

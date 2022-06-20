@@ -1,4 +1,4 @@
-package poc.rc.rp;
+package poc.rc.rp.commonutils;
 
 import java.util.Arrays;
 import java.util.HashMap;

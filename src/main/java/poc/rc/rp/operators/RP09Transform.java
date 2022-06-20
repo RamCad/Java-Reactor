@@ -1,8 +1,8 @@
 package poc.rc.rp.operators;
 
 import java.util.function.Function;
-import poc.rc.rp.Person;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.Person;
+import poc.rc.rp.commonutils.Util;
 import reactor.core.publisher.Flux;
 
 public class RP09Transform {

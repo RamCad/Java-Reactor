@@ -1,4 +1,4 @@
-package poc.rc.rp;
+package poc.rc.rp.commonutils;
 
 import lombok.Data;
 import lombok.ToString;

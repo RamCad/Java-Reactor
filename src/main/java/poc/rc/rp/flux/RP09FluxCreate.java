@@ -1,7 +1,7 @@
 package poc.rc.rp.flux;
 
-import poc.rc.rp.NameProducer;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.NameProducer;
+import poc.rc.rp.commonutils.Util;
 import reactor.core.publisher.Flux;
 
 public class RP09FluxCreate {

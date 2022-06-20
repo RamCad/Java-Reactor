@@ -1,7 +1,7 @@
 package poc.rc.rp.mono;
 
 import java.util.concurrent.Callable;
-import poc.rc.rp.Util;
+import poc.rc.rp.commonutils.Util;
 import reactor.core.publisher.Mono;
 
 public class RP04MonoFromSupplier {
