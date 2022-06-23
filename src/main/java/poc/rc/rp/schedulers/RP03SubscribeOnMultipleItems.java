@@ -1,4 +1,4 @@
-package poc.rc.rp.ThreadsNSchedulers;
+package poc.rc.rp.schedulers;
 
 import poc.rc.rp.commonutils.Util;
 import reactor.core.publisher.Flux;

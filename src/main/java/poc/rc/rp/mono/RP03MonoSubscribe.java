@@ -8,7 +8,7 @@ public class RP03MonoSubscribe {
   public static void main(String[] args) {
 
     //publisher
-    // use just only when you have data available
+    // use .just() only when you have data available
     Mono<Integer> mono = Mono.just("test")
         .map(String::length)
         .map(i -> i/0);

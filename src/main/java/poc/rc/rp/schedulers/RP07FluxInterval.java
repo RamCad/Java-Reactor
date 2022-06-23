@@ -1,4 +1,4 @@
-package poc.rc.rp.ThreadsNSchedulers;
+package poc.rc.rp.schedulers;
 
 import java.time.Duration;
 import poc.rc.rp.commonutils.Util;
